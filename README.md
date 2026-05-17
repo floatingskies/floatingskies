@@ -1,18 +1,91 @@
-# PT-BR
-"Sou alguém extremamente louco por coisas que aqueles que se dizem líderes dizem que sabem, mas não fazem, se não existem, eu mesmo desenvolvo com a força do ódio, assim como fiz com o Float Suite porque fiquei bravo com o Photopea e o GIMP/Inkscape, além de querer editar documentos escolares, no final, todos nós somos a nossa maior criação por alguma motivo, mas não sabemos o que é, talvez tudo o que precisássemos fosse de um elixir para essa energia de mana que necessitamos" - Ariel Closs Novais
-- T.I
-- Infra/Redes
-- Designer Grafico
-- UX/UI Designer
-- Tradução Multi-Linguagem
+<div align="center">
 
-## EN
-"I am someone extremely crazy about things that those who call themselves leaders say they know, but don't do, if it doesn't exist, I develop it myself with the force of hate, just like I did the Float Suite because I was mad at Photopea and GIMP/Inkscape, besides wanting to edit school documents, in the end, we are all our biggest creation for a reason, but we don't know what it is, maybe all we needed was a elixir for this energy of mana that we require" - Ariel Closs Novais
+# hey, eu sou o Float 👋
+### `Sky` · `Shato` · `FloatingSkies`
 
-- I.T
-- Infrastructure/Computer Networks
-- Graphics Designer
-- UX/UI Designer
-- Multi-language translator
-<img width="260" height="194" alt="image" src="https://github.com/user-attachments/assets/998304a0-5596-4da9-8f8d-67a21f4f7873" />
+*Alumni do IFRO · Full-Stack Dev · UX/UI Designer · Mago dos Computadores*
 
+[![GitHub](https://img.shields.io/badge/GitHub-azzynovais-181717?style=flat-square&logo=github)](https://github.com/azzynovais)
+[![Portfolio](https://img.shields.io/badge/Portfolio-float.dev-3584e4?style=flat-square&logo=firefox)](https://azzynovais.github.io)
+
+</div>
+
+---
+
+## sobre mim
+
+> Dizem que crianças aprendem a falar com 1 ano. Eu? Aos 3 eu já estava brigando com o sistema operacional e jogando CS 1.6 e IGI 2 e 1.
+> Sou o cara que você chama quando tem que configurar as coisas chatas que ninguém quer.
+
+- 🎓 **IFRO** — Alumni, sobrevivi à base de esperança, fé e muito Taiti 🧃
+- 🐧 **Tech-native** — mexendo em máquinas desde que monitores eram de tubo
+- 🎨 **User-centric** — faço interfaces que até seu avõ entenderia (ou quase)
+- 🦊 **Furro** — sim, eu sou furro
+- 💬 **Zueira-driven Development** — se o código não tiver um comentário engraçado ou louco, nem me chame para entender
+
+---
+
+## 🛠️ skills
+
+| Área | Ferramentas |
+|:--|:--|
+| **Web** | HTML · CSS · JavaScript |
+| **UX/UI Design** | Figma · GIMP · Inkscape · Penpot |
+| **Scripting** | Python · Shell (Bash) |
+| **Game Dev** | Roblox Studio · Lua |
+| **Config & Suporte** | Linux e Sysadmin · "Já tentou reiniciar?" |
+| **Shitposting** | Discord · Telegram · WhatsApp |
+
+---
+
+## 📦 projetos em destaque
+
+| Projeto | Descrição | Linguagem |
+|:--|:--|:--:|
+| [**linux-float**](https://github.com/floatingskies/linux-float) | Builder CLI de kernel CachyOS/Psycachy para distros deb. Fork focado em hardware antigo e moderado. | `Shell` |
+| [**sprite-gtk**](https://github.com/floatingskies/sprite-gtk) | Tema GTK para o desktop Cinnamon inspirado no estilo visual do ZorinOS. | `CSS` |
+| [**guia-de-usuario-do-big-linux**](https://github.com/floatingskies/guia-de-usuario-do-big-linux) | Guia de usuário do BigLinux em português. | `Markdown` |
+
+---
+
+## 📊 github stats
+
+<div align="center">
+
+![Stats do Float](https://github-readme-stats.vercel.app/api?username=floatingskies&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floatingskies&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+</div>
+
+---
+
+## 🎮 outros projetos (Roblox)
+
+Desenvolvendo jogos na plataforma Roblox desde 2021 pelo estúdio **Renard Six** / **Floating Skies**:
+
+- 🎯 Arctic Minigames
+- 🏆 Legendary Minigames
+- ❄️ Echo of Winter
+
+---
+
+## 📬 contato
+
+Aberto a **freelas**, **collabs** e aquela dúvida das 2h da manhã sobre Linux.
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-azzynovais-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@floatingskies-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/floatingskies)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Já tentou ver se não é a memoria?"* - Float, sempre
+
+<sub>Feito com zueira, fé e muito Taiti</sub>
+
+</div>
